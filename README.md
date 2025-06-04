@@ -16,3 +16,7 @@ Create a production build with:
 ```bash
 npm run build
 ```
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
